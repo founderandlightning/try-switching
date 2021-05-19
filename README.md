@@ -21,7 +21,7 @@ We are using switching providers for:
 5. Hosting
 	- Hosting by HubSpot
 6. Environments
-	- Environments by HubSpot
+	- IDE by HubSpot
 7. CI and deployment
 	- no CI in the project
 8. Error handling
